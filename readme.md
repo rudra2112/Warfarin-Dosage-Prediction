@@ -1,4 +1,4 @@
-# Warfarin Dosage Prediction Project
+# Warfarin Dosage Prediction
 
 This project aims to predict the optimal dosage of warfarin for patients using a Contextual Multi Arms Bandit Reinforcement Learning algorithm. The project achieved an accuracy of 68.09 percent, which is comparable to other state-of-the-art methods, such as Pharmacogenetic Dosage Algorithm with an accuracy of 68.75 percent, Clinical Dosage Algorithm with an accuracy of 66.11 percent, and Baseline Fixed Algorithm with an accuracy of 61.17 percent.
 
@@ -25,3 +25,6 @@ Our algorithm achieved an accuracy of 68.09 percent, which is comparable to othe
 ## Conclusion
 
 In this project, we developed a machine learning model that can predict the optimal dosage of warfarin for individual patients based on their clinical and genetic information. Our algorithm's performance is comparable to other state-of-the-art methods and can help clinicians make better-informed decisions about the dosage of warfarin to prescribe.
+
+## References 
+https://web.stanford.edu/class/cs234/CS234Win2019/default_project/default_project.pdf
